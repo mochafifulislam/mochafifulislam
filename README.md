@@ -1,7 +1,7 @@
 # Hi there, I'm Moch Afiful Islam 👋
 
 <p align="center">
-  <b>Undergraduate Mathematics Student @ Brawijaya University</b><br>
+  <b>Freshgraduate Mathematics Student @ Brawijaya University</b><br>
   Passionate about <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Computational Mathematics</b>
 </p>
 
