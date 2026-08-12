@@ -16,7 +16,7 @@
 
 ## 📌 About Me
 
-- 🎓 **Education:** Undergraduate Mathematics Student at Universitas Brawijaya.
+- 🎓 **Education:** Mathematics Bachelor at Universitas Brawijaya.
 - 🔬 **Research & Focus:** Computer Vision, Deep Learning, Image Classification, Object Detection, and Data Clustering.
 - 🔭 **Current Work:** Exploring advanced deep learning architectures (YOLOv12, Deep Ensemble Learning) and computational algorithm implementations.
 - ⚡ **Fun Fact:** I love applying mathematical foundations to solve real-world Machine Learning & Computer Vision challenges.
