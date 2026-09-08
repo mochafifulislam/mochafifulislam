@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Freshgraduate Mathematics Student @ Brawijaya University</b><br>
-  Passionate about <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Computational Mathematics</b>
+  Passionate about <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Data Science</b>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![R](https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r)
 
 ### Math & Data Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
