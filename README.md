@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Freshgraduate Mathematics Student @ Brawijaya University</b><br>
-  Passionate about <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Data Science</b>
+  Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>
 </p>
 
 <p align="center">
