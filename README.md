@@ -1,8 +1,8 @@
 # Hi there, I'm Moch Afiful Islam 👋
 
 <p align="center">
-  <b>Freshgraduate Mathematics Student @ Brawijaya University</b><br>
-  Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>
+  <b>Mathematics Graduate @ Brawijaya University | AI Engineer & Computer Vision Researcher</b><br>
+  Specializing in <b>Deep Learning</b>, <b>Computer Vision </b>, and <b>MLOps Pipeline</b>
 </p>
 
 <p align="center">
@@ -16,41 +16,39 @@
 
 ## 📌 About Me
 
-- 🎓 **Education:** Mathematics Bachelor at Universitas Brawijaya.
-- 🔬 **Research & Focus:** Computer Vision, Deep Learning, Image Classification, Object Detection, and Data Clustering.
-- 🔭 **Current Work:** Exploring advanced deep learning architectures and computational algorithm implementations.
-- ⚡ **Fun Fact:** I love applying mathematical foundations to solve real-world Machine Learning & Computer Vision challenges.
+- 🎓 **Education:** Bachelor of Mathematics from Universitas Brawijaya (GPA: 3.18/4.00).
+- 🏆 **Pencapaian Utama:** Meraih **Best Paper Award** pada **IC3INA 2026** melalui riset Deep Ensemble Learning untuk identifikasi varietas tanaman.
+- 📜 **Sertifikasi:** Microsoft Certified: Azure AI Fundamentals (AI-900) & Generative Artificial Intelligence Certification.
+- 🔬 **Pengalaman Riset:** Former Computer Vision Researcher Intern di **BRIN** & Project-Based Data Scientist di **IDX Partners**.
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-### Languages & Frameworks
+### AI & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![R](https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r)
+![YOLOv12](https://img.shields.io/badge/YOLOv12-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Math & Data Libraries
+### Math, Data & MLOps
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Databases
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
 ---
 
 ## 🚀 Highlighted Projects
 
-- 🚦 **[Vehicle Detection & Counting (YOLOv12)](https://github.com/mochafifulislam)**: Implementasi YOLOv12 untuk deteksi dan pemantauan jumlah kendaraan pada rekaman CCTV Malang secara real-time.
-- 🩺 **[Skin Cancer Classification (VGG19)](https://github.com/mochafifulislam)**: Klasifikasi 7 jenis lesi kanker kulit menggunakan arsitektur VGG19.
-- 🌶️ **[Chili Variety Identification](https://github.com/mochafifulislam)**: Identifikasi varietas tanaman cabai berbasis *Deep Ensemble Learning*.
-- 📊 **[BSI Customer Segmentation](https://github.com/mochafifulislam)**: Segmentasi karakteristik nasabah BSI KCP Batamindo menggunakan *K-Means Clustering*.
+- 🚗 **[YOLOv12 & DeepSORT Traffic Monitoring API](https://github.com/mochafifulislam)**: Sistem *traffic monitoring* real-time dengan akurasi mAP50 97.7%, dilengkapi REST API FastAPI, MJPEG Streaming, dan Dockerization.
+- 🌶️ **[Deep Ensemble Learning for Chili Identification](https://github.com/mochafifulislam)**: Riset klasifikasi citra daun berbasis ensemble learning yang meraih penghargaan **Best Paper Award IC3INA 2026**.
+- 🩺 **[Skin Cancer Classification (VGG19)](https://github.com/mochafifulislam)**: Klasifikasi otomatis 7 jenis lesi kulit menggunakan arsitektur VGG19 & data augmentation.
+- 💳 **[IDX Partners Credit Risk Analytics](https://github.com/mochafifulislam)**: Pemodelan prediktif risiko kredit menggunakan algoritma Machine Learning & end-to-end data pipeline.
 
 ---
 
